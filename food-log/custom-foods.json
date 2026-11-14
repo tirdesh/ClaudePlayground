@@ -1,0 +1,345 @@
+[
+ {
+  "name": "Burger bun + hash brown + cheese + sauces",
+  "kcal": 420,
+  "protein_g": 9,
+  "fat_g": 20,
+  "carbs_g": 50
+ },
+ {
+  "name": "2 hot dog buns + 3 eggs",
+  "kcal": 475,
+  "protein_g": 25,
+  "fat_g": 19,
+  "carbs_g": 50
+ },
+ {
+  "name": "2 egg rolls (2 chapatis, 2 eggs)",
+  "kcal": 465,
+  "protein_g": 18,
+  "fat_g": 22,
+  "carbs_g": 48
+ },
+ {
+  "name": "2 multigrain toast + PB & Nutella",
+  "kcal": 415,
+  "protein_g": 15,
+  "fat_g": 19,
+  "carbs_g": 47
+ },
+ {
+  "name": "2 multigrain toast + 2 eggs + avocado + onion",
+  "kcal": 595,
+  "protein_g": 25,
+  "fat_g": 30,
+  "carbs_g": 57
+ },
+ {
+  "name": "2 white-bread sandwiches + cheese slice",
+  "kcal": 400,
+  "protein_g": 12,
+  "fat_g": 14,
+  "carbs_g": 56
+ },
+ {
+  "name": "Costco croissant + 2 eggs + cheese",
+  "kcal": 515,
+  "protein_g": 22,
+  "fat_g": 33,
+  "carbs_g": 32
+ },
+ {
+  "name": "3 dosa with chutney",
+  "kcal": 420,
+  "protein_g": 9,
+  "fat_g": 14,
+  "carbs_g": 64
+ },
+ {
+  "name": "6 idly with chutney or sambar",
+  "kcal": 340,
+  "protein_g": 10,
+  "fat_g": 5,
+  "carbs_g": 64
+ },
+ {
+  "name": "Maggi, 1 pack",
+  "kcal": 310,
+  "protein_g": 7,
+  "fat_g": 12,
+  "carbs_g": 43
+ },
+ {
+  "name": "Pasta",
+  "kcal": 445,
+  "protein_g": 10,
+  "fat_g": 14,
+  "carbs_g": 70
+ },
+ {
+  "name": "Hakka noodles",
+  "kcal": 435,
+  "protein_g": 10,
+  "fat_g": 15,
+  "carbs_g": 65
+ },
+ {
+  "name": "Masala macaroni",
+  "kcal": 425,
+  "protein_g": 10,
+  "fat_g": 13,
+  "carbs_g": 67
+ },
+ {
+  "name": "Add-on: egg",
+  "kcal": 90,
+  "protein_g": 6,
+  "fat_g": 7,
+  "carbs_g": 1
+ },
+ {
+  "name": "Add-on: paneer 50 g",
+  "kcal": 133,
+  "protein_g": 9,
+  "fat_g": 10,
+  "carbs_g": 2
+ },
+ {
+  "name": "Add-on: cheese or cream sauce",
+  "kcal": 150,
+  "protein_g": 6,
+  "fat_g": 12,
+  "carbs_g": 5
+ },
+ {
+  "name": "2 boiled eggs",
+  "kcal": 145,
+  "protein_g": 13,
+  "fat_g": 10,
+  "carbs_g": 1
+ },
+ {
+  "name": "Egg whites, 1 cup",
+  "kcal": 125,
+  "protein_g": 27,
+  "fat_g": 0.5,
+  "carbs_g": 2
+ },
+ {
+  "name": "Banana",
+  "kcal": 105,
+  "protein_g": 1,
+  "fat_g": 0.4,
+  "carbs_g": 25
+ },
+ {
+  "name": "Rice + egg curry",
+  "kcal": 545,
+  "protein_g": 18,
+  "fat_g": 20,
+  "carbs_g": 72
+ },
+ {
+  "name": "Rice + okra fry",
+  "kcal": 410,
+  "protein_g": 7,
+  "fat_g": 12,
+  "carbs_g": 68
+ },
+ {
+  "name": "Rice + aloo fry",
+  "kcal": 475,
+  "protein_g": 8,
+  "fat_g": 14,
+  "carbs_g": 79
+ },
+ {
+  "name": "Rice + aloo pulusu",
+  "kcal": 440,
+  "protein_g": 7,
+  "fat_g": 10,
+  "carbs_g": 80
+ },
+ {
+  "name": "Rice + munakkaya sambar",
+  "kcal": 460,
+  "protein_g": 13,
+  "fat_g": 10,
+  "carbs_g": 79
+ },
+ {
+  "name": "Rice + dondakaya fry",
+  "kcal": 400,
+  "protein_g": 6,
+  "fat_g": 12,
+  "carbs_g": 66
+ },
+ {
+  "name": "Rice + carrot fry",
+  "kcal": 420,
+  "protein_g": 6,
+  "fat_g": 12,
+  "carbs_g": 71
+ },
+ {
+  "name": "Rice + beetroot fry",
+  "kcal": 425,
+  "protein_g": 7,
+  "fat_g": 12,
+  "carbs_g": 72
+ },
+ {
+  "name": "Rice + cabbage fry",
+  "kcal": 420,
+  "protein_g": 7,
+  "fat_g": 12,
+  "carbs_g": 70
+ },
+ {
+  "name": "Rice + cauliflower",
+  "kcal": 400,
+  "protein_g": 7,
+  "fat_g": 11,
+  "carbs_g": 67
+ },
+ {
+  "name": "Rice + rasam",
+  "kcal": 300,
+  "protein_g": 7,
+  "fat_g": 3,
+  "carbs_g": 61
+ },
+ {
+  "name": "3 chapatis + paneer curry",
+  "kcal": 820,
+  "protein_g": 25,
+  "fat_g": 48,
+  "carbs_g": 70
+ },
+ {
+  "name": "3 chapatis + mushroom curry",
+  "kcal": 615,
+  "protein_g": 15,
+  "fat_g": 30,
+  "carbs_g": 70
+ },
+ {
+  "name": "3 chapatis + egg bhurji",
+  "kcal": 675,
+  "protein_g": 22,
+  "fat_g": 36,
+  "carbs_g": 64
+ },
+ {
+  "name": "3 chapatis + kurma",
+  "kcal": 700,
+  "protein_g": 14,
+  "fat_g": 36,
+  "carbs_g": 80
+ },
+ {
+  "name": "Pickle or podi, 1 tbsp",
+  "kcal": 70,
+  "protein_g": 1,
+  "fat_g": 6,
+  "carbs_g": 3
+ },
+ {
+  "name": "Chips, a handful",
+  "kcal": 80,
+  "protein_g": 1,
+  "fat_g": 5,
+  "carbs_g": 8
+ },
+ {
+  "name": "Paneer, 100 g",
+  "kcal": 265,
+  "protein_g": 18,
+  "fat_g": 20,
+  "carbs_g": 4
+ },
+ {
+  "name": "Buttermilk, 1 glass",
+  "kcal": 80,
+  "protein_g": 5,
+  "fat_g": 3,
+  "carbs_g": 8
+ },
+ {
+  "name": "Sweet corn cup",
+  "kcal": 150,
+  "protein_g": 4,
+  "fat_g": 1.5,
+  "carbs_g": 34
+ },
+ {
+  "name": "Kirkland Greek yogurt, 1 cup",
+  "kcal": 140,
+  "protein_g": 25,
+  "fat_g": 0,
+  "carbs_g": 9
+ },
+ {
+  "name": "Whole milk, 1 glass",
+  "kcal": 150,
+  "protein_g": 8,
+  "fat_g": 8,
+  "carbs_g": 12
+ },
+ {
+  "name": "Midnight chocolate milk, 1 glass",
+  "kcal": 250,
+  "protein_g": 9,
+  "fat_g": 8,
+  "carbs_g": 36
+ },
+ {
+  "name": "Juice or soda",
+  "kcal": 150,
+  "protein_g": 0,
+  "fat_g": 0,
+  "carbs_g": 38
+ },
+ {
+  "name": "4 clementines",
+  "kcal": 140,
+  "protein_g": 3,
+  "fat_g": 0.5,
+  "carbs_g": 32
+ },
+ {
+  "name": "Kiwi",
+  "kcal": 42,
+  "protein_g": 1,
+  "fat_g": 0.4,
+  "carbs_g": 10
+ },
+ {
+  "name": "Cashews (6-10)",
+  "kcal": 72,
+  "protein_g": 2,
+  "fat_g": 6,
+  "carbs_g": 4
+ },
+ {
+  "name": "2 sunny-side eggs",
+  "kcal": 180,
+  "protein_g": 12,
+  "fat_g": 14,
+  "carbs_g": 1
+ },
+ {
+  "name": "Rice, half rice-cooker cup",
+  "kcal": 250,
+  "protein_g": 5,
+  "fat_g": 0.5,
+  "carbs_g": 55
+ },
+ {
+  "name": "Ghee, 1 tbsp",
+  "kcal": 120,
+  "protein_g": 0,
+  "fat_g": 14,
+  "carbs_g": 0
+ }
+]
